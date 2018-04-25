@@ -1,0 +1,23 @@
+{
+  "name": "web-proxy-middleware",
+  "version": "1.0.0",
+  "description": "Web Proxy Layer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazehub/web-proxy-middleware.git"
+  },
+  "author": "BlazeHub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blazehub/web-proxy-middleware/issues"
+  },
+  "homepage": "https://github.com/blazehub/web-proxy-middleware#readme",
+  "dependencies": {
+    
+  }
+}
